@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Greg (@Arnack)
-- 👀 I’m interested in people, drawing and a better world.
+- 👀 I’m interested in people, drawing and in a friendly world
 - 🌱 I’m currently creating an online collaboration platform
-- 💞️ I’m looking nethworking and making friends all over the world.
-- 📫 Just TG me (@Grigoriy_O) 
+- 💞️ I’m looking for nethworking and making friends all over the world
+- 📫 Just TG me @Grigoriy_O
 
 <!---
 Arnack/Arnack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
