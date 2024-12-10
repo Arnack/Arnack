@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Greg, a CTO and founder @ (Speak Pick)[https://speakpick.com]
+- 👋 Hi, I’m Greg, a CTO and founder @ https://speakpick.com
 - 👀 I’m interested in people, drawing and in a friendly world
 - 💞️ I’m looking for nethworking and making friends all over the world
 - 📫 Just TG me @utrom_go
